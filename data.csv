@@ -1,21 +1,21 @@
-Name,Maths,Physics,Chemistry
-Ali,78,85,80
-Bilal,45,52,48
-Sana,88,90,92
-Ahmed,67,70,65
-Zara,95,93,97
-Usman,40,42,38
-Ayesha,72,75,70
-Hamza,55,60,58
-Hira,30,35,40
-Daniyal,82,78,85
-Maryam,90,88,92
-Saad,49,45,50
-Noor,68,72,70
-Fahad,85,80,88
-Iqra,92,95,94
-Arslan,60,58,62
-Khadija,35,40,45
-Talha,75,70,78
-Anum,50,55,53
-Zain,28,30,25
+name,age,gender,marks,city,department
+Ali,20,M,78,Lahore,Computer Science
+Ahmed,21,M,85,Karachi,Software Engineering
+Ayesha,19,F,88,Islamabad,Information Technology
+Sara,22,F,91,Lahore,Computer Science
+Hassan,20,M,67,Faisalabad,Electrical Engineering
+Zainab,21,F,74,Multan,Information Technology
+Usman,23,M,82,Rawalpindi,Software Engineering
+Maria,20,F,90,Karachi,Computer Science
+Huzaifa,22,M,69,Lahore,Civil Engineering
+Iqra,19,F,95,Islamabad,Computer Science
+Bilal,21,M,73,Multan,Electrical Engineering
+Noor,20,F,89,Faisalabad,Information Technology
+Saad,22,M,77,Rawalpindi,Software Engineering
+Hina,23,F,84,Lahore,Computer Science
+Farhan,21,M,71,Karachi,Civil Engineering
+Laiba,20,F,92,Islamabad,Computer Science
+Adnan,24,M,66,Multan,Electrical Engineering
+Maham,19,F,87,Lahore,Information Technology
+Shahzaib,22,M,80,Karachi,Software Engineering
+Anum,21,F,93,Islamabad,Computer Science
